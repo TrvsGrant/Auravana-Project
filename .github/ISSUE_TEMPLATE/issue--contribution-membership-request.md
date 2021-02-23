@@ -8,6 +8,8 @@ assignees: TrvsGrant
 
 ---
 
+^^ A title is required above ^^
+
 [PURPOSE] This issue concerns the coordinated admission of new contributing members. 
 [WARNING] This contribution request is public.
 
