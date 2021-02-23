@@ -1,5 +1,5 @@
 ---
-name: 'Issue: Contribution Membership Request'
+name: 'Issue: Contribution membership request'
 about: Use this template to request to become a volunteer.
 title: ''
 labels: Membership Request
