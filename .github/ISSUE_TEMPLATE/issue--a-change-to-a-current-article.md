@@ -1,5 +1,5 @@
 ---
-name: 'Issue: Article change (modification to current article)'
+name: 'Issue: A change to a current article'
 about: Report a change to an article. If this doesn’t look right, choose a different
   type.
 title: "[ARTICLE CHANGE]"

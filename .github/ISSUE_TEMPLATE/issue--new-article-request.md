@@ -1,9 +1,9 @@
 ---
-name: 'Issue: Article request (request new article)'
-about: Suggest an idea for an article.
+name: 'Issue: New article request'
+about: Suggest an idea for an article
 title: "[ARTICLE REQUEST]"
 labels: ''
-assignees: TrvsGrant
+assignees: ''
 
 ---
 
