@@ -3,7 +3,7 @@ name: 'Issue: Contribution membership request'
 about: Use this template to request to become a volunteer (issue a contribution service
   request).
 title: ''
-labels: Membership Request
+labels: ''
 assignees: TrvsGrant
 
 ---
@@ -11,13 +11,16 @@ assignees: TrvsGrant
 ^^ A title is required above ^^
 
 [PURPOSE] This issue concerns the coordinated admission of new contributing members. 
-[WARNING] This contribution request is public.
 
 [INTRODUCTION] Have you ever wanted to contribute to the global human fulfillment through societal design? This template will help a coordinator and "you" to the best understand a good place and position to get started contributing. There is no financial investment to becoming an Auravana contributor, only a time and effort requirement. Minimum time expectations to be a contributor at this phase of development are 7-10 hours per week.
-[ACTION] Fill in the template below to complete the request. 
-[NOTIFICATION] You will only be contacted to setup a "meet and greet" for volunteering if you state "Yes" to the required "Yes" sections:
 
-[ MEMBERSHIP REQUEST INQUIRY ]
+[*WARNING*] This contribution request is public.
+
+[*NOTIFICATION*] You will only be contacted to setup a "meet and greet" for volunteering if you state "Yes" to the required "Yes" sections.
+
+[ACTION] Fill in the template below to complete the request. 
+
+[ MEMBERSHIP REQUEST INQUIRY QUESTIONNAIRE ]
 
 Do you agree to all of the following? 
    - I have skills applicable to a societal engineering project.
