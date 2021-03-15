@@ -22,6 +22,11 @@ assignees: TrvsGrant
 
 [ MEMBERSHIP REQUEST INQUIRY QUESTIONNAIRE ]
 
+Who are you? 
+First Name:
+Last Name:
+Role Identifier:
+
 Do you agree to all of the following? 
    - I have skills applicable to a societal engineering project.
    - I have a minimum of 7-10 weekly hours to volunteer (20+ for coordination positions).
