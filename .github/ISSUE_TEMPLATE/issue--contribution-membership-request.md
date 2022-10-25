@@ -44,7 +44,7 @@ Do you agree to contribute if you are approved as a volunteer to an Auravana Pro
 Are you willing to put effort toward “tangible contribution” that addresses tasks on a globally coordinated Work Breakdown Structure? We differentiate this time from other activities because it directly impacts the completion of a project.
 ---[Yes / No]----
 
-Do you know understand the direction, approach, and overall orientation of the project; do you understand the projects vision for a community-type society? 
+Do you understand the direction, approach, and overall orientation of the project; do you understand the projects vision? 
 ---[Yes / No]----
  * If "No", then why?
  * If "Yes", then why?
