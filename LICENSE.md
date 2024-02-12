@@ -1,4 +1,4 @@
-All content in this repository is licensed under a CC BY 4.0 License, unless otherwise stated.
+All content in this repository is licensed under a CC-BY-SA 4.0 License, unless otherwise stated.
 
 The Auravana Project is an open source and free shared (i.e., free source) project.
 
